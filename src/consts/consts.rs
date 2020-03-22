@@ -5,7 +5,7 @@ pub fn CMD_LIST() ->std::vec::Vec<&'static str> {
         ]
 }
 pub const SERVER_PORT: u16 = 8080;
-pub const TOKEN: &str = "bot1063777732:AAEnAMLJZmiOg-q7D5OW8AA1DpTFzQTX4rw";
+pub const TOKEN: &str = "";
 
 /*                "{\"update_id\":473131509,
                 \n\"message\":{
